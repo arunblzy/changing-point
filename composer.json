@@ -1,0 +1,14 @@
+{
+    "name": "arun/changing-point",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arun"
+        }
+    ],
+    "require": {}
+}
